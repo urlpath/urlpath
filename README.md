@@ -1,7 +1,5 @@
 # Hello there.
 
-<br/>
-
 <h3>
 <details>
   <summary>activity-statistics</summary>
@@ -13,7 +11,7 @@
 
 <br/>
 
-## about-section
+### about-section
 
 - List: 0th
 - List: 1st
@@ -22,7 +20,7 @@
 
 <br/>
 
-## ongoing-project
+### ongoing-project
 - {NAME}
 - https://github.com/Telecho/Telecho
 
