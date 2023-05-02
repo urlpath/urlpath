@@ -1,9 +1,29 @@
 # Hello there.
 
+<br/>
+
+<h3>
+<details>
+  <summary>about-section</summary>
+
+<br>
+
+- List: 0th
+- List: 1st
+- List: 2nd
+- List: 3rd
+
+</details>
+</h3>
+
+<br/>
+
 <h3>
 <details>
   <summary>activity-statistics</summary>
   
+<br>
+
   <a href="#">[![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Telecho&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/Telecho)</a>
   <a href="#">[![github stats += 1](https://github-readme-stats.vercel.app/api?username=Telecho&theme=blueberry&count_private=true&hide_border=true&line_height=20)](https://github.com/Telecho)</a>
 </details>
@@ -11,18 +31,17 @@
 
 <br/>
 
-### about-section
+<h3>
+<details>
+  <summary>ongoing-project</summary>
 
-- List: 0th
-- List: 1st
-- List: 2nd
-- List: 3rd
+<br>
 
-<br/>
-
-### ongoing-project
 - {NAME}
 - https://github.com/Telecho/Telecho
+
+</details>
+</h3>
 
 <br/>
 
@@ -34,14 +53,13 @@
 
 <br/>
 
-[![SkillIcons](https://skillicons.dev/icons?i=vite,webpack,flutter,angular,jquery,react,svelte,vue)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,dart,js,ts,wasm)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=androidstudio,tailwind,express,nodejs,deno,next)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=qt,dotnet,py,django,php,laravel,ruby,rails)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=cpp,cs,go,rust,zig,julia,r)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=unreal,unity,godot,bevy)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=bash,c,git,linux,docker,kubernetes)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,supabase)](https://skillicons.dev)<br/>
+
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,dart,js,ts)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=go,php,py,ruby)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=bash,c,rust,wasm)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=bsd,linux)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev)<br/>
 
 <br/>
 
