@@ -44,7 +44,7 @@ echo "Hello, World!"
 - {NAME}
 - https://github.com/Telecho/Telecho
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Telecho/Telecho">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Telecho&repo=Telecho&theme=noctis_minimus" />
 </a>
 
