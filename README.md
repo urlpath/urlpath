@@ -24,8 +24,8 @@
   
 <br>
 
-  <a href="#">[![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Telecho&layout=compact&theme=blueberry&count_private=true&hide_border=true)](https://github.com/Telecho)</a>
-  <a href="#">[![github stats += 1](https://github-readme-stats.vercel.app/api?username=Telecho&theme=blueberry&count_private=true&hide_border=true&line_height=20)](https://github.com/Telecho)</a>
+  <a href="#">[![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Telecho&layout=compact&theme=noctis_minimus&count_private=true&hide_border=true)](https://github.com/Telecho)</a>
+  <a href="#">[![github stats += 1](https://github-readme-stats.vercel.app/api?username=Telecho&theme=noctis_minimus&count_private=true&hide_border=true&line_height=20)](https://github.com/Telecho)</a>
 </details>
 </h3>
 
