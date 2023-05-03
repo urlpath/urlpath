@@ -12,6 +12,10 @@
 - List: 1st
 - List: 2nd
 - List: 3rd
+```bash
+#!/bin/bash
+echo "Hello, World!"
+```
 
 </details>
 </h3>
@@ -39,6 +43,10 @@
 
 - {NAME}
 - https://github.com/Telecho/Telecho
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Telecho&repo=Telecho&theme=noctis_minimus" />
+</a>
 
 </details>
 </h3>
