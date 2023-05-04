@@ -28,8 +28,10 @@ echo "Hello, World!"
   
 <br>
 
-  <a href="#">[![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Telecho&layout=compact&theme=noctis_minimus&count_private=true&hide_border=true)](https://github.com/Telecho)</a>
-  <a href="#">[![github stats += 1](https://github-readme-stats.vercel.app/api?username=Telecho&theme=noctis_minimus&count_private=true&hide_border=true&line_height=20)](https://github.com/Telecho)</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Telecho&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![User's GitHub stats](https://github-readme-stats.vercel.app/api?username=Telecho&show_icons=true&theme=noctis_minimus)
+
 </details>
 </h3>
 
@@ -43,10 +45,8 @@ echo "Hello, World!"
 
 - {NAME}
 - https://github.com/Telecho/Telecho
-  
-<a href="https://github.com/Telecho/Telecho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Telecho&repo=Telecho&theme=noctis_minimus" />
-</a>
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Telecho&repo=Telecho&theme=noctis_minimus)
 
 </details>
 </h3>
