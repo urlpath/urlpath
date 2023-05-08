@@ -62,12 +62,11 @@ echo "Hello, World!"
 <br/>
 
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,dart,js,ts)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=go,php,py,ruby)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=bash,c,rust,wasm)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=dart,php,python,ruby)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=c,go,kotlin,rust)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=bash,git,linux,wasm)](https://skillicons.dev)<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=bsd,linux)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev)<br/>
 
 <br/>
 
