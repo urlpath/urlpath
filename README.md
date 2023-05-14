@@ -14,7 +14,7 @@
 - List: 3rd
 ```bash
 #!/bin/bash
-echo "Hello, World!"
+echo "I should put something here."
 ```
 
 </details>
@@ -43,10 +43,10 @@ echo "Hello, World!"
 
 <br>
 
-- {NAME}
-- https://github.com/Telecho/Telecho
+- No
+- https://github.com/Telecho
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Telecho&repo=Telecho&theme=noctis_minimus)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Telecho&repo=telecho&theme=noctis_minimus)
 
 </details>
 </h3>
@@ -57,9 +57,6 @@ echo "Hello, World!"
 
 <img src="https://discord.c99.nl/widget/theme-1/1029294235544981596.png">
 
-<a href = "mailto: techxlation@gmail.com">Send an e-mail</a> or discord message.<br/>
-
-<br/>
 
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)<br/>
