@@ -1,10 +1,10 @@
 # Hello there.
 
-<br/>
+<br>
 
 <h3>
 <details>
-  <summary>about-section</summary>
+  <summary>about-content</summary>
 
 <br>
 
@@ -12,63 +12,67 @@
 - List: 1st
 - List: 2nd
 - List: 3rd
-```bash
-#!/bin/bash
-echo "I should put something here."
+
+<br>
+
+```
+CODE_GOES_HERE
 ```
 
 </details>
 </h3>
 
-<br/>
+<br>
 
 <h3>
 <details>
-  <summary>activity-statistics</summary>
+  <summary>activity-data</summary>
   
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Telecho&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Telecho&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
-![User's GitHub stats](https://github-readme-stats.vercel.app/api?username=Telecho&show_icons=true&theme=noctis_minimus)
+
+![User's GitHub stats](https://github-readme-stats.vercel.app/api?username=Telecho&show_icons=true&theme=github_dark)
 
 </details>
 </h3>
 
-<br/>
+<br>
 
 <h3>
 <details>
-  <summary>ongoing-project</summary>
+  <summary>current-effort</summary>
 
 <br>
 
-- No
-- https://github.com/Telecho
+- Side project
+- https://github.com/Telecho/side
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Telecho&repo=telecho&theme=noctis_minimus)
+<br>
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Telecho&repo=side&theme=github_dark)
 
 </details>
 </h3>
 
-<br/>
+<br>
 
 ## contact-information
 
+<br>
+
 <img src="https://discord.c99.nl/widget/theme-1/1029294235544981596.png">
 
+<br>
 
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=bash,c,perl,python)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=git,linux,nginx,sqlite)](https://skillicons.dev)<br/>
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=dart,php,python,ruby)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=c,go,kotlin,rust)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=bash,git,linux,wasm)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)<br/>
-
-<br/>
+<br>
 
 <!--
-
-USERNAME/USERNAME is a ✨special✨ repository because its `README` (this markdown file) appears on one's GitHub profile page.
 
 EOF-->
