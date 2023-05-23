@@ -18,9 +18,9 @@
 - List: 2nd
 - List: 3rd
 
-[![SkillIcons](https://skillicons.dev/icons?i=express,nodejs,python,tailwind)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=docker,nginx,postgresql,sqlite)](https://skillicons.dev)<br/>
-[![SkillIcons](https://skillicons.dev/icons?i=bash,c,cpp,perl)](https://skillicons.dev)<br/>
+![SkillIcons](https://skillicons.dev/icons?i=express,nodejs,python,tailwind)<br/>
+![SkillIcons](https://skillicons.dev/icons?i=docker,nginx,postgresql,sqlite)<br/>
+![SkillIcons](https://skillicons.dev/icons?i=bash,c,cpp,perl)<br/>
 
 </details>
 </h3>
@@ -35,7 +35,7 @@
 
   <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlpath&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlpath&layout=compact&theme=github_dark)
 
 ![User's GitHub stats](https://github-readme-stats.vercel.app/api?username=urlpath&show_icons=true&theme=github_dark)
 
