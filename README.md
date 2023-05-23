@@ -18,9 +18,9 @@
 - List: 2nd
 - List: 3rd
 
-![SkillIcons](https://skillicons.dev/icons?i=express,nodejs,python,tailwind)<br/>
-![SkillIcons](https://skillicons.dev/icons?i=docker,nginx,postgresql,sqlite)<br/>
-![SkillIcons](https://skillicons.dev/icons?i=bash,c,cpp,perl)<br/>
+![SkillIcons](https://skillicons.dev/icons?i=express,nodejs,python,tailwind)<br>
+![SkillIcons](https://skillicons.dev/icons?i=docker,nginx,postgresql,sqlite)<br>
+![SkillIcons](https://skillicons.dev/icons?i=bash,c,cpp,perl)<br>
 
 </details>
 </h3>
@@ -35,9 +35,9 @@
 
   <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlpath&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlpath&layout=compact&theme=github_dark)<br>
 
-![User's GitHub stats](https://github-readme-stats.vercel.app/api?username=urlpath&show_icons=true&theme=github_dark)
+![User's GitHub stats](https://github-readme-stats.vercel.app/api?username=urlpath&show_icons=true&theme=github_dark)<br>
 
 </details>
 </h3>
@@ -52,13 +52,13 @@
 
   <br>
 
-[E-mail](mailto:@github.com)
+[E-mail](mailto:@github.com)<br>
 
 ```
 CODE_BLOCK_HERE
 ```
 
-<img src="https://discord.c99.nl/widget/theme-1/1029294235544981596.png">
+<img src="https://discord.c99.nl/widget/theme-1/1029294235544981596.png"><br>
 
 </details>
 </h3>
@@ -74,9 +74,9 @@ CODE_BLOCK_HERE
   <br>
 
 - Side project
-- https://github.com/urlpath/side
+- [Link](https://github.com/urlpath/side)<br>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=urlpath&repo=side&theme=github_dark)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=urlpath&repo=side&theme=github_dark)<br>
 
 </details>
 </h3>
