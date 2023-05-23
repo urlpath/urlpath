@@ -6,14 +6,10 @@
 <details>
   <summary>about-content</summary>
 
-<br>
-
 - List: 0th
 - List: 1st
 - List: 2nd
 - List: 3rd
-
-<br>
 
 ```
 CODE_GOES_HERE
@@ -27,12 +23,8 @@ CODE_GOES_HERE
 <h3>
 <details>
   <summary>activity-data</summary>
-  
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Telecho&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
 
 ![User's GitHub stats](https://github-readme-stats.vercel.app/api?username=Telecho&show_icons=true&theme=github_dark)
 
@@ -45,12 +37,8 @@ CODE_GOES_HERE
 <details>
   <summary>current-effort</summary>
 
-<br>
-
 - Side project
 - https://github.com/Telecho/side
-
-<br>
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Telecho&repo=side&theme=github_dark)
 
@@ -61,18 +49,10 @@ CODE_GOES_HERE
 
 ## contact-information
 
-<br>
-
 <img src="https://discord.c99.nl/widget/theme-1/1029294235544981596.png">
-
-<br>
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=bash,c,perl,python)](https://skillicons.dev)<br/>
 [![SkillIcons](https://skillicons.dev/icons?i=git,linux,nginx,sqlite)](https://skillicons.dev)<br/>
 
-<br>
-
-<!--
-
-EOF-->
+<!--EOF-->
