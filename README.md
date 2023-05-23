@@ -1,8 +1,13 @@
+<!-- https://github/urlpath/urlpath/README.md -->
+
+<!-- SECTION 00 | BEGIN/OPEN/START -->
 # Hello there.
+<!-- SECTION 00 | CLOSE/END/STOP -->
 
 <br>
 
-<h3> <!-- SECTION 01 | OPEN --> 
+<!-- SECTION 01 | BEGIN/OPEN/START -->
+<h3>
 <details>
   <summary>about-bio</summary>
 
@@ -18,11 +23,13 @@
 [![SkillIcons](https://skillicons.dev/icons?i=bash,c,cpp,perl)](https://skillicons.dev)<br/>
 
 </details>
-</h3> <!-- SECTION 01 | CLOSE --> 
+</h3>
+<!-- SECTION 01 | CLOSE/END/STOP -->
 
 <br>
 
-<h3> <!-- SECTION 02 | OPEN --> 
+<!-- SECTION 02 | BEGIN/OPEN/START --> 
+<h3>
 <details>
   <summary>activity-data</summary>
 
@@ -33,28 +40,34 @@
 ![User's GitHub stats](https://github-readme-stats.vercel.app/api?username=urlpath&show_icons=true&theme=github_dark)
 
 </details>
-</h3> <!-- SECTION 02 | CLOSE --> 
+</h3>
+<!-- SECTION 02 | CLOSE/END/STOP --> 
 
 <br>
 
-<h3> <!-- SECTION 03 | OPEN --> 
+<!-- SECTION 03 | BEGIN/OPEN/START --> 
+<h3>
 <details>
   <summary>contact-info</summary>
 
   <br>
 
 [E-mail](mailto:@github.com)
+
 ```
 CODE_BLOCK_HERE
 ```
+
 <img src="https://discord.c99.nl/widget/theme-1/1029294235544981596.png">
 
 </details>
-</h3> <!-- SECTION 03 | CLOSE --> 
+</h3>
+<!-- SECTION 03 | CLOSE/END/STOP --> 
 
 <br>
 
-<h3> <!-- SECTION 04 | OPEN --> 
+<!-- SECTION 04 | BEGIN/OPEN/START --> 
+<h3>
 <details>
   <summary>current-mission</summary>
 
@@ -66,8 +79,9 @@ CODE_BLOCK_HERE
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=urlpath&repo=side&theme=github_dark)
 
 </details>
-</h3> <!-- SECTION 04 | CLOSE --> 
+</h3>
+<!-- SECTION 04 | CLOSE/END/STOP --> 
 
 <br>
 
-<!--EOF-->
+<!-- EOF -->
