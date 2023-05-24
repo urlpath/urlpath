@@ -1,7 +1,7 @@
 <!-- https://github/urlpath/urlpath/README.md -->
 
 <!-- SECTION 00 | BEGIN/OPEN/START -->
-# Hello there.
+# read-me
 <!-- SECTION 00 | CLOSE/END/STOP -->
 
 <br>
@@ -18,9 +18,9 @@
 - List: 2nd
 - List: 3rd
 
-![SkillIcons](https://skillicons.dev/icons?i=express,nodejs,python,tailwind)<br>
-![SkillIcons](https://skillicons.dev/icons?i=docker,nginx,postgresql,sqlite)<br>
-![SkillIcons](https://skillicons.dev/icons?i=bash,c,cpp,perl)<br>
+[![SkillIcons](https://skillicons.dev/icons?i=express,nodejs,python,tailwind)](https://github.com/urlpath#read-me)<br>
+[![SkillIcons](https://skillicons.dev/icons?i=docker,nginx,postgresql,sqlite)](https://github.com/urlpath#read-me)<br>
+[![SkillIcons](https://skillicons.dev/icons?i=bash,c,cpp,perl)](https://github.com/urlpath#read-me)<br>
 
 </details>
 </h3>
@@ -35,9 +35,9 @@
 
   <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlpath&layout=compact&theme=github_dark)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlpath&layout=donut-vertical&theme=github_dark)](https://github.com/urlpath?tab=repositories)<br>
 
-![Users's GitHub stats](https://github-readme-stats.vercel.app/api?username=urlpath&rank_icon=github&theme=github_dark)
+[![User's GitHub stats](https://github-readme-stats.vercel.app/api?username=urlpath&theme=github_dark&rank_icon=github)](https://github.com/urlpath?tab=repositories)<br>
 
 </details>
 </h3>
