@@ -1,21 +1,15 @@
 <!-- *\urlpath\README.md -->
-<!-- -->
-<!-- -->
-<!-- -->
 <!-- SECTION 00 | BEGIN/OPEN/START -->
-# Hello, World!
+# Hello, GitHub!
 <br>
 
-[![SkillIcons](https://skillicons.dev/icons?i=c,perl,php,python,ts)](https://github.com/urlpath#read-me)<br>
-[![SkillIcons](https://skillicons.dev/icons?i=docker,nginx,nodejs,postgresql,sqlite)](https://github.com/urlpath#read-me)
+[![SkillIcons](https://skillicons.dev/icons?i=c,perl,php,python,ts)](https://github.com/urlpath#hello-github)<br>
+[![SkillIcons](https://skillicons.dev/icons?i=docker,nginx,nodejs,postgresql,sqlite)](https://github.com/urlpath#hello-github)
 
 <br>
 <small>note: section-headers reveal information</small><br>
 <br>
 <!-- SECTION 00 | CLOSE/END/STOP -->
-<!-- -->
-<!-- -->
-<!-- -->
 <!-- SECTION 01 | BEGIN/OPEN/START -->
 <h3>
 <details>
@@ -29,9 +23,6 @@
 </h3>
 <br>
 <!-- SECTION 01 | CLOSE/END/STOP -->
-<!-- -->
-<!-- -->
-<!-- -->
 <!-- SECTION 02 | BEGIN/OPEN/START -->
 <h3>
 <details>
@@ -46,32 +37,26 @@
 </h3>
 <br>
 <!-- SECTION 02 | CLOSE/END/STOP -->
-<!-- -->
-<!-- -->
-<!-- -->
 <!-- SECTION 03 | BEGIN/OPEN/START -->
 <h3>
 <details>
 <summary>contact-info</summary>
 <br>
 
-( i ) [Send](mailto:@) e-mail
+( i ) [Send e-mail](mailto:@)
 
 ```
 [USERNAME]@[DOMAIN_NAME]
 ```
 
-( i ) [Join](https://discord.gg/u6j6MXZaft) server
+( i ) [Direct message](https://discord.com/users/1029294235544981596) or [join server](https://discord.gg/u6j6MXZaft)
 
-[<img src="https://discord.c99.nl/widget/theme-1/1029294235544981596.png">](https://discord.gg/u6j6MXZaft)<br>
+[<img src="https://discord.c99.nl/widget/theme-1/1029294235544981596.png">](https://discord.com/users/1029294235544981596)<br>
 
 </details>
 </h3>
 <br>
 <!-- SECTION 03 | CLOSE/END/STOP -->
-<!-- -->
-<!-- -->
-<!-- -->
 <!-- SECTION 04 | BEGIN/OPEN/START -->
 <h3>
 <details>
