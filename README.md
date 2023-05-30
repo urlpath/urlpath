@@ -39,6 +39,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlpath&layout=compact&theme=github_dark)](https://github.com/urlpath?tab=repositories)<br>
+
 [![User's GitHub stats](https://github-readme-stats.vercel.app/api?username=urlpath&theme=github_dark&rank_icon=github)](https://github.com/urlpath?tab=repositories)<br>
 
 </details>
@@ -55,11 +56,14 @@
 <br>
 
 ( i ) [Send](mailto:@) e-mail
+
 ```
-EMAIL_ADDRESS: [USERNAME]@[DOMAIN_NAME]
+[USERNAME]@[DOMAIN_NAME]
 ```
+
+( i ) [Join](https://discord.gg/u6j6MXZaft) server
+
 [<img src="https://discord.c99.nl/widget/theme-1/1029294235544981596.png">](https://discord.gg/u6j6MXZaft)<br>
-( i ) To join Discord server [click](https://discord.gg/u6j6MXZaft) or [tap](https://discord.gg/u6j6MXZaft)<br>
 
 </details>
 </h3>
