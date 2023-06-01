@@ -1,29 +1,24 @@
-<!-- *\urlpath\README.md -->
-<!-- SECTION 00 | BEGIN/OPEN/START -->
 # Hello, GitHub!
 <br>
 
 [![SkillIcons](https://skillicons.dev/icons?i=c,perl,php,python,ts)](https://github.com/urlpath#hello-github)<br>
-[![SkillIcons](https://skillicons.dev/icons?i=docker,nginx,nodejs,postgresql,sqlite)](https://github.com/urlpath#hello-github)
+[![SkillIcons](https://skillicons.dev/icons?i=docker,nginx,nodejs,postgresql,sqlite)](https://github.com/urlpath#hello-github)<br>
 
-<br>
 <small>note: section-headers reveal information</small><br>
-<br>
-<!-- SECTION 00 | CLOSE/END/STOP -->
-<!-- SECTION 01 | BEGIN/OPEN/START -->
+
 <h3>
 <details>
-<summary>about-bio</summary>
-<br>
+<summary>about-bio</summary><br>
 
 - In case you're lost: I'm [@urlpath](https://github.com/urlpath) on GitHub.
 - When not conducting perilous expeditions through cyberspace, I [read](https://stallman.org/articles/yellow-hat.html).
-
+- 
+-
+  
 </details>
 </h3>
 <br>
-<!-- SECTION 01 | CLOSE/END/STOP -->
-<!-- SECTION 02 | BEGIN/OPEN/START -->
+
 <h3>
 <details>
 <summary>activity-data</summary>
@@ -31,13 +26,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlpath&layout=compact&theme=github_dark)](https://github.com/urlpath?tab=repositories)<br>
 
-[![User's GitHub stats](https://github-readme-stats.vercel.app/api?username=urlpath&theme=github_dark&rank_icon=github)](https://github.com/urlpath?tab=repositories)<br>
+[![User's GitHub stats](https://github-readme-stats.vercel.app/api?username=urlpath&theme=github_dark&rank_icon=github)](https://github.com/urlpath?tab=repositories)
 
 </details>
 </h3>
 <br>
-<!-- SECTION 02 | CLOSE/END/STOP -->
-<!-- SECTION 03 | BEGIN/OPEN/START -->
+
 <h3>
 <details>
 <summary>contact-info</summary>
@@ -56,8 +50,7 @@
 </details>
 </h3>
 <br>
-<!-- SECTION 03 | CLOSE/END/STOP -->
-<!-- SECTION 04 | BEGIN/OPEN/START -->
+
 <h3>
 <details>
 <summary>current-mission</summary>
@@ -71,5 +64,3 @@
 </details>
 </h3>
 <br>
-<!-- SECTION 04 | CLOSE/END/STOP -->
-<!-- EOF -->
