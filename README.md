@@ -1,22 +1,7 @@
 # Hello, GitHub!
-<br>
-
-[![SkillIcons](https://skillicons.dev/icons?i=c,perl,php,python,ts)](https://github.com/urlpath#hello-github)<br>
-[![SkillIcons](https://skillicons.dev/icons?i=docker,nginx,nodejs,postgresql,sqlite)](https://github.com/urlpath#hello-github)<br>
 
 <small>note: section-headers reveal information</small><br>
-
-<h3>
-<details>
-<summary>about-bio</summary><br>
-
-- In case you're lost: I'm some nerd named [@urlpath](https://github.com/urlpath) on GitHub.
-- For me, the highest form of joy arises from the depths of code.
-- Among the world's greatest assets are information and ability to handle it.
-- When not conducting perilous expeditions through cyberspace, I [read](https://stallman.org/articles/yellow-hat.html).
-
-</details>
-</h3><br>
+<br>
 
 <h3>
 <details>
@@ -52,6 +37,8 @@
 - [Permalink](https://github.com/urlpath/side)<br>
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=urlpath&repo=side&theme=github_dark)](https://github.com/urlpath/side)<br>
+
+[![SkillIcons](https://skillicons.dev/icons?i=bash,c,linux,perl,python,sqlite&perline=3)](https://github.com/urlpath#current-mission)<br>
 
 </details>
 </h3><br>
