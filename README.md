@@ -18,11 +18,11 @@
 <details>
 <summary>contact-info</summary><br>
 
-( i ) [Send e-mail](mailto:@)
+[Send e-mail](mailto:@)
 ```
 [USERNAME]@[DOMAIN_NAME]
 ```
-( i ) [Direct message](https://discord.com/users/1029294235544981596) or [join server](https://discord.gg/u6j6MXZaft)
+[Direct message](https://discord.com/users/1029294235544981596) or [join server](https://discord.gg/u6j6MXZaft)
 
 [<img src="https://discord.c99.nl/widget/theme-1/1029294235544981596.png">](https://discord.com/users/1029294235544981596)<br>
 
@@ -33,12 +33,11 @@
 <details>
 <summary>current-mission</summary><br>
 
-- Finish side project
-- [Permalink](https://github.com/urlpath/side)<br>
+- Finish side project<br>
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=urlpath&repo=side&theme=github_dark)](https://github.com/urlpath/side)<br>
 
-[![SkillIcons](https://skillicons.dev/icons?i=bash,c,linux,perl,python,sqlite&perline=3)](https://github.com/urlpath#current-mission)<br>
+[![SkillIcons](https://skillicons.dev/icons?i=bash,python,sqlite&perline=3)](https://github.com/urlpath#current-mission)<br>
 
 </details>
 </h3><br>
