@@ -1,6 +1,5 @@
 # Hello, GitHub!
 
-<small>note: section-headers reveal information</small><br>
 <br>
 
 <h3>
@@ -20,7 +19,7 @@
 
 [Send e-mail](mailto:@)
 ```
-[USERNAME]@[DOMAIN_NAME]
+NOTICE: E-MAIL ADDRESS REDACTED
 ```
 [Direct message](https://discord.com/users/1029294235544981596) or [join server](https://discord.gg/u6j6MXZaft)
 
