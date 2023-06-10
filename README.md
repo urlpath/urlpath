@@ -19,7 +19,7 @@
 
 [Send e-mail](mailto:@)
 ```
-NOTICE: E-MAIL ADDRESS REDACTED
+E-MAIL ADDRESS REDACTED
 ```
 [Direct message](https://discord.com/users/1029294235544981596) or [join server](https://discord.gg/u6j6MXZaft)
 
