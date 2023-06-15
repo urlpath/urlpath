@@ -32,11 +32,9 @@ E-MAIL ADDRESS REDACTED
 <details>
 <summary>current-mission</summary><br>
 
-- Finish side project<br>
-
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=urlpath&repo=side&theme=github_dark)](https://github.com/urlpath/side)<br>
 
-[![SkillIcons](https://skillicons.dev/icons?i=bash,php,python,sqlite&perline=4)](https://github.com/urlpath#current-mission)<br>
+[![SkillIcons](https://skillicons.dev/icons?i=bash,php,python,sqlite)](https://github.com/urlpath#current-mission)<br>
 
 </details>
 </h3><br>
