@@ -1,5 +1,3 @@
-<br>
-
 <h3>
 <details>
 <summary>activity-data</summary><br>
