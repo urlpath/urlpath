@@ -1,5 +1,3 @@
-### urlpath <br>
-
 <h3>
 <details>
 <summary>activity-data</summary><br>
@@ -9,7 +7,7 @@
 [![User's GitHub stats](https://github-readme-stats.vercel.app/api?username=urlpath&theme=github_dark&rank_icon=github)](https://github.com/urlpath?tab=repositories)
 
 </details>
-</h3><br>
+</h3>
 
 <h3>
 <details>
@@ -24,7 +22,7 @@ E-MAIL ADDRESS REDACTED
 [<img src="https://discord.c99.nl/widget/theme-1/1029294235544981596.png">](https://discord.com/users/1029294235544981596)<br>
 
 </details>
-</h3><br>
+</h3>
 
 <h3>
 <details>
@@ -35,4 +33,4 @@ E-MAIL ADDRESS REDACTED
 [![SkillIcons](https://skillicons.dev/icons?i=bash,php,python,sqlite)](https://github.com/urlpath#current-mission)<br>
 
 </details>
-</h3><br>
+</h3>
