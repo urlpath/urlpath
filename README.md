@@ -1,5 +1,3 @@
-# Hello, GitHub!
-
 <br>
 
 <h3>
