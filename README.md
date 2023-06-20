@@ -30,9 +30,9 @@ E-MAIL ADDRESS REDACTED
 <details>
 <summary>current-task</summary><br>
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=urlpath&repo=side&theme=github_dark)](https://github.com/urlpath/side)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=urlpath&repo=pgsl&theme=github_dark)](https://github.com/urlpath/pgsl)
 
-[![SkillIcons](https://skillicons.dev/icons?i=bash,php,python,sqlite)](https://github.com/urlpath#current-task)
+[![SkillIcons](https://skillicons.dev/icons?i=bash,php,postgresql,python)](https://github.com/urlpath#current-task)
 
 </details>
 </h3>
